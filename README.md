@@ -8,3 +8,9 @@ You need:
 - Kinect for windows 2.0
 
 and then, stand in the range of kinect and wait for detection.
+
+# Screenshoots
+![](1.jpg)
+![](2.jpg)
+![](3.jpg)
+![](4.jpg)
